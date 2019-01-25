@@ -6,7 +6,7 @@ For this device you do not need an Arduino or equivalent microprocessor. Do make
 
 |No|Amount|Description|Supplier NL|Cost|
 | ------------: | ------------: | :------------ | :------------ | ------------: |
-|1|1|80 mm Fan|[Farnell](http://nl.farnell.com/bisonic/sp802512l-03/fan-80x25mm-12vdc/dp/1832326), [EOO](http://www.eoo-bv.nl/index.php?_a=viewProd&productId=13244) |3.35|
+|1|1|80 mm Fan|[Farnell](http://nl.farnell.com/bisonic/sp802512l-03/fan-80x25mm-12vdc/dp/1832326), [EOO](https://www.eoo-bv.nl/ventilatoren-fan/13244-ee80251s3.html) |3.35|
 |2|2|Permanent magnets|[Supermagnete](http://www.supermagnete.nl/blokmagneten-neodymium-middelgroot/blokmagneet-10mm-x-10mm-x-5mm-neodymium-n42-vernikkeld_Q-10-10-05-N)|0.85|
 |3|1|Potentiometer 100 ohm 2W|[Farnell](http://nl.farnell.com/bourns/93r1a-r22-a05l/potentiometer-linear-100-ohm-10/dp/2321801), [RS Online](http://nl.rs-online.com/web/p/potentiometers/5225254/)|6.34|
 |4|4|Power switch|[Farnell](http://nl.farnell.com/webapp/wcs/stores/servlet/ProductDisplay?catalogId=15001&langId=31&urlRequestType=Base&partNumber=4710368&storeId=10168), [iPrototype](https://iprototype.nl/products/components/buttons-switches/rocker-switch-large)|2.35|
