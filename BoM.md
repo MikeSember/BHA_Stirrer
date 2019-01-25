@@ -20,7 +20,7 @@ For this device you do not need an Arduino or equivalent microprocessor. Do make
 |12|3|68 Ohm 5W Power resistors|[Farnell](http://nl.farnell.com/webapp/wcs/stores/servlet/ProductDisplay?catalogId=15001&langId=31&urlRequestType=Base&partNumber=2118068&storeId=10168)|0.37|
 |13|1|Superglue|[SuperMagnete](https://www.supermagnete.nl/eng/workshop-magnets/uhu-max-repair-adhesive-for-magnets-waterproof-without-solvents_WS-ADH-01)|8.08|
 
-*Estimate total:* EUR 42.43
+*Estimate total:* EUR 42.69
 
 **Alternatives**
 
